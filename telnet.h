@@ -1,5 +1,5 @@
 
-#define PORT 83
+#define PORT 1083
 #define MAX_DESCRIPTOR 20
 #define TELNET_BUFFER_SIZE 80
 
